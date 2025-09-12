@@ -1,5 +1,11 @@
-# 💫 About Me:
-Hey there! I'm Gebin 👋 — a developer who loves building things that actually make life easier 🛠️. Most of my recent projects are built with React ⚛️ and designed to solve everyday annoyances — simple tools I’d genuinely use and share with friends 🤝.<br>When I’m not in front of a screen 💻, you’ll probably find me out riding through Karnataka or Kerala 🏞️, chasing sunsets 🌅 on two wheels 🏍️, or lifting heavy things at the gym 🏋️‍♂️ just to stay sane. I believe in making things that feel real, useful, and a little fun — whether that’s in code or on the road.<br>Let’s build something cool 💡. Or break it 💥, learn from it 📚, and build it better 🚀.
+# About Me:
+Hello there! I'm Gebin George
+A developer who loves building things that actually make life easier.
+Most of my recent projects are built with React and designed to solve everyday annoyances with simple tools I’d genuinely use and share with friends.
+<br>When I’m not in front of a screen, you’ll probably find me out riding through Karnataka or Kerala, chasing sunsets on two wheels, or lifting heavy at the gym just to stay sane. I believe in making things that feel real, useful, and a little fun — whether that’s in code or on the road.
+<br>Let’s build something cool. Or break it, learn from it, and build it better.
+
+“Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people.” — Colossians 3:23
 
 
 ## 🌐 Socials:
