@@ -28,7 +28,7 @@ When I'm not in front of a screen, you'll probably find me out riding through Ka
 
 <div align="center">
   
-> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> *"Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people."* <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">  
+>  *"Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people."* 
 > **— Colossians 3:23**
 
 </div>
@@ -64,6 +64,10 @@ When I'm not in front of a screen, you'll probably find me out riding through Ka
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G381n&custom_title=Contribution%20Activity&bg_color=1a0b2e&color=B794F4&line=9370DB&point=E0B0FF&area_color=7B68EE&title_color=E0B0FF&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=G381n&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a0b2e&title_color=E0B0FF&icon_color=B794F4&text_color=E0B0FF&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G381n&theme=midnight-purple&hide_border=true&bg_color=1a0b2e&title_color=E0B0FF&text_color=B794F4&layout=compact&langs_count=6" alt="Top Languages" width="48%"/>
