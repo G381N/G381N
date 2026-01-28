@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=180&section=header&text=Gebin%20George&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Cool%20Stuff%20•%20Breaking%20Things%20•%20Learning%20Always&descSize=16&descAlignY=51"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1f,20:1a0f3d,40:0f0a2e,60:1a0f3d,100:0a0a1f&height=180&section=header&text=Gebin%20George&fontSize=42&fontColor=9d8ff7&animation=twinkling&fontAlignY=32&desc=Building%20Cool%20Stuff%20•%20Breaking%20Things%20•%20Learning%20Always&descSize=16&descAlignY=51&descColor=c8b8ff"/>
 
 </div>
 
@@ -65,16 +65,16 @@ When I'm not in front of a screen, you'll probably find me out riding through Ka
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=G381n&custom_title=Contribution%20Activity&bg_color=1a0b2e&color=B794F4&line=9370DB&point=E0B0FF&area_color=7B68EE&title_color=E0B0FF&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G381n&custom_title=Contribution%20Activity&bg_color=0a0a1f&color=9d8ff7&line=7a5af5&point=c8b8ff&area_color=5b3fb8&title_color=c8b8ff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=G381n&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a0b2e&title_color=E0B0FF&icon_color=B794F4&text_color=E0B0FF&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G381n&theme=midnight-purple&hide_border=true&bg_color=1a0b2e&title_color=E0B0FF&text_color=B794F4&layout=compact&langs_count=6" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=G381n&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1f&title_color=c8b8ff&icon_color=9d8ff7&text_color=b8a3ff&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G381n&theme=midnight-purple&hide_border=true&bg_color=0a0a1f&title_color=c8b8ff&text_color=9d8ff7&layout=compact&langs_count=6" alt="Top Languages" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=G381n&theme=midnight-purple&hide_border=true&background=1a0b2e&ring=B794F4&fire=E0B0FF&currStreakLabel=B794F4&sideLabels=E0B0FF&dates=B794F4&currStreakNum=E0B0FF&sideNums=E0B0FF" alt="GitHub Streak" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=G381n&theme=midnight-purple&hide_border=true&background=0a0a1f&ring=9d8ff7&fire=c8b8ff&currStreakLabel=9d8ff7&sideLabels=c8b8ff&dates=9d8ff7&currStreakNum=c8b8ff&sideNums=b8a3ff" alt="GitHub Streak" width="60%"/>
 
 </div>
 
@@ -101,13 +101,13 @@ Endless roads        Real solutions       Gym regular
 ## 🤝 Let's Connect & Build Together
 
 <a href="https://linkedin.com/in/GebinGeorge">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7B3FF2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4a2f8f" />
 </a>
 <a href="https://instagram.com/bikeswithgebin">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7B3FF2" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4a2f8f" />
 </a>
 <a href="mailto:gebin.official@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7B3FF2" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a2f8f" />
 </a>
 
 <br><br>
@@ -116,7 +116,7 @@ Endless roads        Real solutions       Gym regular
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=G381n&style=for-the-badge&color=7B3FF2&labelColor=1a0b2e)
+![Profile Views](https://komarev.com/ghpvc/?username=G381n&style=for-the-badge&color=5b3fb8&labelColor=0a0a1f)
 
 </div>
 
@@ -124,7 +124,7 @@ Endless roads        Real solutions       Gym regular
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1f,20:1a0f3d,40:0f0a2e,60:1a0f3d,100:0a0a1f&height=100&section=footer"/>
 
 **Made with ❤️, ☕, and a lot of 🏍️**
 
