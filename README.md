@@ -14,8 +14,6 @@
 
 ---
 
-<img align="right" alt="Coding Setup" width="400" src="https://raw.githubusercontent.com/G381n/G381n/main/g1.gif">
-
 ## 🚀 About Me
 
 A developer who loves building things that actually make life easier. Most of my recent projects are built with React and designed to solve everyday annoyances with simple tools I'd genuinely use and share with friends.
@@ -24,12 +22,24 @@ When I'm not in front of a screen, you'll probably find me out riding through Ka
 
 **Let's build something cool. Or break it, learn from it, and build it better.**
 
-<br clear="right"/>
-
 <div align="center">
   
 >  *"Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people."* 
 > **— Colossians 3:23**
+
+</div>
+
+---
+
+## 📚 Learn With Me
+
+I'm documenting my journey learning new tech stacks — complete with notes, code, and real projects you can actually build alongside me. Currently diving into **Django**, breaking it down step-by-step so anyone can follow along. Pull the code, run it yourself, and let's figure this out together.
+
+**No fluff. Just honest learning, documented in real-time.**
+
+<div align="center">
+
+[![Learn Django](https://img.shields.io/badge/🐍_Learn_Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=4a2f8f)](https://github.com/G381N/DjangoMaterial)
 
 </div>
 
